@@ -12,7 +12,7 @@ title                    : "Niccolò Tonioni"
 title_separator          : "-"
 name                     : &name "Niccolò Tonioni"
 description              : &description "Personal web page of Niccolò Tonioni, PhD Candidate on Fluid Mechanics Engineering at Univertsité de Poitiers."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://niccolotonioni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "niccolotonioni.github.io"
 
