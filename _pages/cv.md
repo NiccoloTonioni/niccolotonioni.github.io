@@ -11,36 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Version Control Theory, Universitè de Poitiers 🇫🇷, 2026 (expected)
+* M.S. in Fluid Dynamics, Von Karman Institute 🇧🇪, 2024
+* M.S. in Aerospace Engineering, Université de Liège 🇧🇪, 2023
+* M.S. in Aeronautical Engineering, Politecnico di Milano 🇮🇹, 2023
+* B.S. in Aerospace Engineering, Politecnico di Milano 🇮🇹, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Apr. 2024 - Jun. 2024: Visiting PHD Student
+  * Vinuesa Lab, KTH 🇸🇪
+  * Supervisor: Ricardo Vinuesa
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct. 2022 - Jun. 2023: Postgraduate Intership
+  * Turbomachinery and Propulsion Department, VKI 🇧🇪
+  * Supervisor: Frank Eulitz, Sergio Lavagnoli
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb. 2022 - Sep. 2022: Master Thesis Intership
+  * Aerospace and Mechanical Engineering Department, ULiège 🇧🇪
+  * Supervisor: Vincent Terrapon, Koen Hillewaert  
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
