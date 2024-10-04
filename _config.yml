@@ -14,7 +14,7 @@ name                     : &name "Niccolò Tonioni"
 description              : &description "Personal web page of Niccolò Tonioni, PhD Candidate on Fluid Mechanics Engineering at Univertsité de Poitiers."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NiccoloTonioni/niccolotonioni.github.io"
+repository               : "niccolotonioni.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
