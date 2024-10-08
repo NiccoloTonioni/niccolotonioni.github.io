@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, Universitè de Poitiers 🇫🇷, 2026 (expected)
+* Ph.D in Fluid Mechanics, Universitè de Poitiers 🇫🇷, 2026 (expected)
 * M.S. in Fluid Dynamics, Von Karman Institute 🇧🇪, 2024
 * M.S. in Aerospace Engineering, Université de Liège 🇧🇪, 2023
 * M.S. in Aeronautical Engineering, Politecnico di Milano 🇮🇹, 2023
