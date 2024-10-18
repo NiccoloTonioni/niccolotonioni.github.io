@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 Hello!
-My research focuses on fluid dynamical system prediction 🌪️,leveraging deep-learning methods as autoencoders 🤖
+
+My research focuses on fluid dynamical system prediction and reduced-order modeling 🌪️,leveraging deep-learning methods as autoencoders and transformers 🤖
 
 I'm a proud alumni of the Von Karman Institute 🎓, where I was student representative. My time there deepened my passion for research, allowing me to engage with researchers from all around the world.
 
