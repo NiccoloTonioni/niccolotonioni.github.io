@@ -19,6 +19,8 @@ Having lived in Belgium 🇧🇪 for over three years, I remain deeply connected
 
 News
 ======
+__2024__:
+  * Our work on <b>reduced-order modeling of experimental turbulent flows</b> has been accepted to </b> DTE-AICOMAS 2025</b> ! 🚀 We’re thrilled to share our insights on POD, variational autoencoders, and much more. 🎤✨ Can't wait to see you all there!
 
 
 

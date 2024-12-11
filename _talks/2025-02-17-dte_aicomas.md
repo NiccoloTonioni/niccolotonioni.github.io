@@ -8,4 +8,4 @@ date: 2025-02-17
 location: "Paris, FR"
 ---
 
-I'm going to present our work on neural compression techniques, including autoencoders (AEs) and variational autoencoders (VAEs), for reduced-order modeling of experimental datasets, comparing these methods with traditional projection-based approaches like Proper Orthogonal Decomposition (POD).
+I will present our work on neural compression techniques, focusing on autoencoders (AEs) and variational autoencoders (VAEs), for reduced-order modeling of experimental datasets.
