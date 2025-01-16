@@ -10,7 +10,7 @@ location: "Paris, FR"
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 0 0 auto; margin-right: 15px;">
-    <img src="/assets/images/vae_latent_space_dte" alt="Variational autoencoder visualization" style="width: 150px; height: auto; border-radius: 5px;">
+    <img src="/assets/images/vae_latent_space_dte.gif" alt="Variational autoencoder visualization" style="width: 150px; height: auto; border-radius: 5px;">
   </div>
   <div>
     <p>
