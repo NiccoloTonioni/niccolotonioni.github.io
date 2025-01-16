@@ -17,9 +17,9 @@ location: "Paris, FR"
       Can deep learning effectively compress and reconstruct turbulent flows? I will present our analysis, exploring neural compression techniques for reduced-order modeling of experimental turbulent flows, focusing on autoencoders (AEs) and variational autoencoders (VAEs).
 
       We address key questions:
-      🔹 How well do AEs and VAEs reconstruct the flow at extreme compression rates?
-      🔹 How are the learned mappings structured in the reduced subspace?
-      🔹 Do these latent representations correlate with key flow parameters?
+      *  How well do AEs and VAEs reconstruct the flow at extreme compression rates?
+      *  How are the learned mappings structured in the reduced subspace?
+      *  Do these latent representations correlate with key flow parameters?
     </p>
   </div>
 </div>
