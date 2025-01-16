@@ -10,11 +10,16 @@ location: "Paris, FR"
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 0 0 auto; margin-right: 15px;">
-    <img src="/assets/images/cyl_phase_dte.gif" alt="Variational autoencoder visualization" style="width: 150px; height: auto; border-radius: 5px;">
+    <img src="/assets/images/vae_latent_space_dte.mp4" alt="Variational autoencoder visualization" style="width: 150px; height: auto; border-radius: 5px;">
   </div>
   <div>
     <p>
-      I will present our work on neural compression techniques, focusing on autoencoders (AEs) and variational autoencoders (VAEs), for reduced-order modeling of experimental turbulent flows.
+      Can deep learning effectively compress and reconstruct turbulent flows? I will present our analysis, exploring neural compression techniques for reduced-order modeling of experimental turbulent flows, focusing on autoencoders (AEs) and variational autoencoders (VAEs).
+
+      We address key questions:
+      🔹 How well do AEs and VAEs reconstruct the flow at extreme compression rates?
+      🔹 How are the learned mappings structured in the reduced subspace?
+      🔹 Do these latent representations correlate with key flow parameters?
     </p>
   </div>
 </div>
