@@ -6,21 +6,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Hello!
 
-I'm a PhD candidate in Fluid Mechanics at Université de Poitiers. My research focuses on fluid dynamical system prediction and reduced-order modeling 🌪️, leveraging deep learning methods such as autoencoders and transformers 🤖.
+I am a PhD candidate in Fluid Mechanics at Université de Poitiers. My research focuses on fluid dynamical system prediction and reduced-order modeling 🌪️, leveraging deep learning methods such as autoencoders and transformers 🤖.
 
-I'm a proud alumnus of the Von Karman Institute 🎓, where I served as a student representative. My time there deepened my passion for research and allowed me to engage with researchers from all around the world.
+I am a proud alumnus of the Von Karman Institute 🎓, where I served as a student representative. My time there deepened my passion for research and allowed me to engage with researchers from around the world.
 
-My master's degrees result from a European partnership 🇪🇺 between Politecnico di Milano and Université de Liège. Having lived in Belgium 🇧🇪 for over three years, I remain deeply connected to its rich culture 🍟🍫. However, as a true Italian at heart 🇮🇹, pizza reigns supreme. On special Sundays, I honor family tradition by making my own pasta, just like my grandmother did.
+My master's degrees are the result of a European partnership 🇪🇺 between Politecnico di Milano and Université de Liège. Having lived in Belgium 🇧🇪 for over three years, I remain deeply connected to its rich culture 🍟🍫. However, as a true Italian at heart 🇮🇹, pizza reigns supreme. On special Sundays, I honor family tradition by making my own pasta, just like my grandmother did.
 
 News
 ======
 __2025__:
 
-*  Our work on <b>reduced-order modeling of experimental turbulent flows</b> has been accepted to <b>DTE-AICOMAS 2025</b> ! 🚀 We’re thrilled to share our insights on POD, variational autoencoders, and much more. 🎤✨ Can't wait to see you all there!
+* VIVALDy debuts with a new symphony for VIV prediction at AiFluids – Chania, May 2025
+Our latest framework, VIVALDy was presented at AiFluids 2025. It combines a β-VAE-GAN architecture with transformers to model vortex-induced vibrations from cylinder displacement alone. Validated on experimental data, it outperforms traditional ROMs in reconstruction accuracy and flow fidelity — offering a powerful, efficient tool for VIV-based energy harvesting systems.
 
+* Presented at EUROMECH 629 – London, June 2025
+Our recent work on modeling near-wall turbulence using a $\beta$-VAE and transformer framework was presented at EUROMECH 629. The approach enables compact feature extraction and accurate temporal prediction of turbulent dynamics, offering a promising testbed for data-driven wall-bounded flow modeling.
+
+* Presented at DTE AICOMAS 2025 – Paris, February 2025 
+Our work on <b>reduced-order modeling of experimental turbulent flows</b> was presented to <b>DTE-AICOMAS 2025</b> ! 🚀 We were thrilled to share our insights on POD, variational autoencoders, and much more. 🎤✨ 
 
 
 
