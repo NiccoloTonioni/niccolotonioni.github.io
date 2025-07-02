@@ -15,7 +15,7 @@ location: "Chania, GR"
     </p>
   </div>
   <div style="text-align: center; margin-top: 15px;">
-    <img src="/assets/images/flow_animation_pred_0556" alt="Prediction with Vivaldy" style="width: 150px; height: auto; border-radius: 5px;">
+    <img src="/assets/images/flow_animation_pred_0556.gif" alt="Prediction with Vivaldy" style="width: 150px; height: auto; border-radius: 5px;">
   </div>
 </div>
 
