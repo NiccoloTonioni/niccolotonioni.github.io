@@ -8,13 +8,13 @@ date: 2025-02-17
 location: "Paris, FR"
 ---
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 0 0 auto; margin-right: 15px;">
-    <img src="/assets/images/vae_latent_space_dte.gif" alt="Variational autoencoder visualization" style="width: 150px; height: auto; border-radius: 5px;">
-  </div>
+<div>
   <div>
     <p>
       Can deep learning effectively compress and reconstruct turbulent flows? I will present our analysis, exploring autoencoders (AEs) and variational autoencoders (VAEs). We address key questions: How well do AEs and VAEs reconstruct the flow at extreme compression rates? How are the learned mappings structured in the reduced subspace? Do these latent representations correlate with key flow parameters?
     </p>
+  </div>
+  <div style="text-align: center; margin-top: 15px;">
+    <img src="/assets/images/vae_latent_space_dte.gif" alt="Variational autoencoder visualization" style="width: 150px; height: auto; border-radius: 5px;">
   </div>
 </div>
