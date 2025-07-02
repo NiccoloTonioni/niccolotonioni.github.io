@@ -19,6 +19,10 @@ Education
 
 Work experience
 ======
+* Jun. 2025: Visiting PHD Student
+  * Department of Chemical Engineering and Technology, KTH 🇸🇪
+  * Host: Christophe Duwig
+
 * Apr. 2024 - Jun. 2024: Visiting PHD Student
   * Vinuesa Lab, KTH 🇸🇪
   * Supervisor: Ricardo Vinuesa

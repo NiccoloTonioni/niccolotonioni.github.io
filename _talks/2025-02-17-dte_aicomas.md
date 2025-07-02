@@ -7,14 +7,10 @@ venue: "Digital Twins in Engineering & Artificial Intelligence and Computational
 date: 2025-02-17
 location: "Paris, FR"
 ---
+Can deep learning effectively compress and reconstruct turbulent flows? I will present our analysis, exploring autoencoders (AEs) and variational autoencoders (VAEs). We address key questions: How well do AEs and VAEs reconstruct the flow at extreme compression rates? How are the learned mappings structured in the reduced subspace? Do these latent representations correlate with key flow parameters?
 
-<div>
-  <div>
-    <p>
-      Can deep learning effectively compress and reconstruct turbulent flows? I will present our analysis, exploring autoencoders (AEs) and variational autoencoders (VAEs). We address key questions: How well do AEs and VAEs reconstruct the flow at extreme compression rates? How are the learned mappings structured in the reduced subspace? Do these latent representations correlate with key flow parameters?
-    </p>
-  </div>
-  <div style="text-align: center; margin-top: 15px;">
-    <img src="/assets/images/vae_latent_space_dte.gif" alt="Variational autoencoder visualization" style="width: 150px; height: auto; border-radius: 5px;">
-  </div>
-</div>
+<figure style="text-align: center; margin-top: 15px;">
+    <img src="/assets/images/vae_latent_space_dte.gif" alt="Variational autoencoder visualization" style="width: 400px; height: auto; border-radius: 5px;">
+    <figcaption>Visualisation of the Variational Autoencoder's latent space.</figcaption>
+</figure>
+
