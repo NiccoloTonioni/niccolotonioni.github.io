@@ -10,9 +10,7 @@ Hello!
 
 I am a PhD candidate in Fluid Mechanics at Université de Poitiers. My research focuses on fluid dynamical system prediction and reduced-order modeling 🌪️, leveraging deep learning methods such as autoencoders and transformers 🤖.
 
-I am a proud alumnus of the Von Karman Institute 🎓, where I served as a student representative. My time there deepened my passion for research and allowed me to engage with researchers from around the world.
-
-My master's degrees are the result of a European partnership 🇪🇺 between Politecnico di Milano and Université de Liège. Having lived in Belgium 🇧🇪 for over three years, I remain deeply connected to its rich culture 🍟🍫. However, as a true Italian at heart 🇮🇹, pizza reigns supreme. On special Sundays, I honor family tradition by making my own pasta, just like my grandmother did.
+I am a proud alumnus of the Von Karman Institute 🎓. My European academic journey has taken me across Italy 🇮🇹, Belgium 🇧🇪, and France 🇫🇷, shaping both my research perspective and my appreciation for diverse cultures. Having lived in Belgium 🇧🇪 for over three years, I remain deeply connected to its culture 🍟🍫. However, as a true Italian at heart 🇮🇹, pizza reigns supreme.
 
 News
 ======

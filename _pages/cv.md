@@ -19,6 +19,10 @@ Education
 
 Work experience
 ======
+* Feb. 2025 - Oct. 2026: PhD Student Representative
+  * PPrime Institute, Université de Poitiers 🇫🇷
+  * Representing PhD students in departmental meetings and policy discussions
+
 * Jun. 2025: Visiting PHD Student
   * Department of Chemical Engineering and Technology, KTH 🇸🇪
   * Host: Christophe Duwig
@@ -26,6 +30,11 @@ Work experience
 * Apr. 2024 - Jun. 2024: Visiting PHD Student
   * Vinuesa Lab, KTH 🇸🇪
   * Supervisor: Ricardo Vinuesa
+
+
+* Oct. 2022 - Jun. 2023: Student Representative
+  * Von Karman Institute 🇧🇪
+  * Advocating for student interests and facilitating communication with faculty
 
 * Oct. 2022 - Jun. 2023: Postgraduate Intership
   * Turbomachinery and Propulsion Department, VKI 🇧🇪
