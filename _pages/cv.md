@@ -35,7 +35,11 @@ Work experience
   * Aerospace and Mechanical Engineering Department, ULiège 🇧🇪
   * Multiphysic and Turbulent Flow Computation Group,
   * Supervisor: Vincent Terrapon, Koen Hillewaert  
-  
+
+Awards & Honors
+**======**
+* Oct. 2022: Statement of recognition of a special Achievement through Working Abroad for academic Research or industrial Development projects, Politecnico di Milano 🏆
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
