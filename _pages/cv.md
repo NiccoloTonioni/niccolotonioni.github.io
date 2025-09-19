@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Fluid Mechanics, Universitè de Poitiers 🇫🇷, 2026 (expected)
-* M.S. in Fluid Dynamics, Von Karman Institute 🇧🇪, 2024
-* M.S. in Aerospace Engineering, Université de Liège 🇧🇪, 2023
-* M.S. in Aeronautical Engineering, Politecnico di Milano 🇮🇹, 2023
-* B.S. in Aerospace Engineering, Politecnico di Milano 🇮🇹, 2020
+* M.S. in Fluid Dynamics, Von Karman Institute 🇧🇪, 2023
+* M.S. in Aerospace Engineering, Université de Liège 🇧🇪, 2022
+* M.S. in Aeronautical Engineering, Politecnico di Milano 🇮🇹, 2022
+* B.S. in Aerospace Engineering, Politecnico di Milano 🇮🇹, 2019
 
 Work experience
 ======
@@ -33,6 +33,7 @@ Work experience
 
 * Feb. 2022 - Sep. 2022: Master Thesis Intership
   * Aerospace and Mechanical Engineering Department, ULiège 🇧🇪
+  * Multiphysic and Turbulent Flow Computation Group,
   * Supervisor: Vincent Terrapon, Koen Hillewaert  
   
 Publications
