@@ -21,7 +21,6 @@ Work experience
 ======
 * Feb. 2025 - Oct. 2026: PhD Student Representative
   * PPrime Institute, Université de Poitiers 🇫🇷
-  * Representing PhD students in departmental meetings and policy discussions
 
 * Jun. 2025: Visiting PHD Student
   * Department of Chemical Engineering and Technology, KTH 🇸🇪
@@ -31,10 +30,8 @@ Work experience
   * Vinuesa Lab, KTH 🇸🇪
   * Supervisor: Ricardo Vinuesa
 
-
 * Oct. 2022 - Jun. 2023: Student Representative
   * Von Karman Institute 🇧🇪
-  * Advocating for student interests and facilitating communication with faculty
 
 * Oct. 2022 - Jun. 2023: Postgraduate Intership
   * Turbomachinery and Propulsion Department, VKI 🇧🇪
@@ -46,7 +43,7 @@ Work experience
   * Supervisor: Vincent Terrapon, Koen Hillewaert  
 
 Awards & Honors
-**======**
+======
 * Oct. 2022: Statement of recognition of a special Achievement through Working Abroad for academic Research or industrial Development projects, Politecnico di Milano 🏆
 
 Publications
