@@ -22,6 +22,9 @@ I am a proud alumnus of the Von Karman Institute. My European academic journey h
   Our latest work extends the framework initially presented at AiFluids 2025 with deeper analysis of the learned latent space dynamics. VIVALDy combines a β-VAE-GAN architecture with transformers to reconstruct vortex-induced vibrations from cylinder displacement alone, revealing physically meaningful flow structures through latent space topology.  
   [Project page](https://niccolotonioni.github.io/vivaldy.github.io/) | [Preprint](https://arxiv.org/abs/2509.24965)
 
+* **July 2025 – Presented at THMT25, Tokyo**  
+  I presented an extension of the work presented at EUROMECH 629, with deeper analysis of the latent space, and the possibility for the model to reconstruct 3D fields.
+
 * **May 2025 – VIVALDy debuts at AiFluids, Chania**  
   Our latest framework, VIVALDy, was presented at AiFluids 2025. It combines a β-VAE-GAN architecture with transformers to reconstruct vortex-induced vibrations from cylinder displacement alone.
 
