@@ -19,9 +19,6 @@ Education
 
 Work experience
 ======
-* Feb. 2025 - Oct. 2026: PhD Student Representative
-  * PPrime Institute, Université de Poitiers 🇫🇷
-
 * Jun. 2025: Visiting PHD Student
   * Department of Chemical Engineering and Technology, KTH 🇸🇪
   * Host: Christophe Duwig
@@ -29,9 +26,6 @@ Work experience
 * Apr. 2024 - Jun. 2024: Visiting PHD Student
   * Vinuesa Lab, KTH 🇸🇪
   * Supervisor: Ricardo Vinuesa
-
-* Oct. 2022 - Jun. 2023: Student Representative
-  * Von Karman Institute 🇧🇪
 
 * Oct. 2022 - Jun. 2023: Postgraduate Intership
   * Turbomachinery and Propulsion Department, VKI 🇧🇪
@@ -41,6 +35,14 @@ Work experience
   * Aerospace and Mechanical Engineering Department, ULiège 🇧🇪
   * Multiphysic and Turbulent Flow Computation Group,
   * Supervisor: Vincent Terrapon, Koen Hillewaert  
+
+Others
+======
+* Feb. 2025 - Oct. 2026: PhD Student Representative
+  * PPrime Institute, Université de Poitiers 🇫🇷
+
+* Oct. 2022 - Jun. 2023: Student Representative
+  * Von Karman Institute 🇧🇪
 
 Awards & Honors
 ======
