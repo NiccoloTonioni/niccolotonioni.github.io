@@ -1,0 +1,29 @@
+- date: "2025-05-01"
+  title: "VIVALDy debuts at AiFluids – Chania"
+  snippet: >
+    Our latest framework, VIVALDy, was presented at AiFluids 2025 in Chania, Greece.
+    It combines a β-VAE-GAN architecture with transformers to model vortex-induced
+    vibrations from cylinder displacement alone. Validated on experimental data, it
+    outperforms traditional ROMs in reconstruction accuracy and flow fidelity — offering
+    a powerful, efficient tool for VIV-based energy harvesting systems.
+  link: "/talks/2025-05-aifluids"
+  ai_generated: false
+
+- date: "2025-06-01"
+  title: "Presented at EUROMECH 629 – London"
+  snippet: >
+    Our work on modeling near-wall turbulence using a β-VAE-GAN and transformer
+    framework was presented at EUROMECH 629 in London. The approach enables compact
+    feature extraction and accurate temporal prediction of turbulent dynamics, offering
+    a promising testbed for data-driven wall-bounded flow modeling.
+  link: "/talks/2025-04-euromech629"
+  ai_generated: false
+
+- date: "2025-02-17"
+  title: "Presented at DTE AICOMAS 2025 – Paris"
+  snippet: >
+    Our work on reduced-order modeling of experimental turbulent flows was presented
+    at DTE-AICOMAS 2025 in Paris. We shared insights on POD, variational autoencoders,
+    and much more in the context of data-driven fluid mechanics.
+  link: "/talks/2025-02-17-dte_aicomas"
+  ai_generated: false
