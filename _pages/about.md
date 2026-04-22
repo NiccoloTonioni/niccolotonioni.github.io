@@ -10,33 +10,30 @@ redirect_from:
 
 <p class="interest-tags">
   <span class="interest-tag">🌊 Turbulent Flows</span>
+  <span class="interest-tag">🧬 AI4Science</span>
   <span class="interest-tag">🤖 Deep Learning</span>
   <span class="interest-tag">📉 Reduced-Order Modelling</span>
-  <span class="interest-tag">🔬 CFD</span>
-  <span class="interest-tag">🧬 AI4Science</span>
 </p>
 
-I am a PhD candidate in Fluid Mechanics at Université de Poitiers. My research focuses on fluid dynamical system prediction and reduced-order modeling 🌪️, leveraging deep learning methods such as autoencoders and transformers 🤖.
+I am a PhD candidate in **Fluid Mechanics** at **Université de Poitiers**. My research focuses on prediction and reduced-order modeling of turbulent flows, leveraging **deep learning** methods such as autoencoders and transformers.
 
-I am a proud alumnus of the Von Karman Institute 🎓. My European academic journey has taken me across Italy 🇮🇹, Belgium 🇧🇪, and France 🇫🇷, shaping both my research perspective and my appreciation for diverse cultures. Having lived in Belgium for over three years, I remain deeply connected to its culture 🍟🍫. However, as a true Italian at heart, pizza reigns supreme.
+I am an alumnus of the **Von Karman Institute**. My European academic journey has taken me across Italy, Belgium, and France, shaping both my research perspective and my appreciation for diverse cultures. Having lived in Belgium for over three years, I remain deeply connected to its culture. However, as a true Italian at heart, pizza reigns supreme.
 
-News
-======
+## Latest News
 
+<div class="news-timeline">
 {% assign news_sorted = site.data.news | sort: "date" | reverse %}
-{% for item in news_sorted %}
-<div class="news-item">
-  <p>
-    <strong>
-      {% if item.link %}<a href="{{ item.link }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
-    </strong>
-    {% if item.ai_generated %}<span class="badge-ai">AI-generated</span>{% endif %}
-    <br>
-    <small class="news-date">{{ item.date | date: "%B %Y" }}</small>
-  </p>
-  <p>{{ item.snippet }}</p>
+{% for item in news_sorted limit:5 %}
+<div class="news-card">
+  <div class="news-dot"></div>
+  <div class="news-card__date">{{ item.date | date: "%B %Y" }}</div>
+  <div class="news-card__body">
+    <strong>{% if item.link %}<a href="{{ item.link }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</strong>
+    {% if item.snippet %}<p>{{ item.snippet }}</p>{% endif %}
+  </div>
 </div>
 {% endfor %}
+</div>
 
 Photos from around the world
 ======
