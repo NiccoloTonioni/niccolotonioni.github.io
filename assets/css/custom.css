@@ -10,7 +10,7 @@
 .interest-tag {
   display: inline-block;
   background: rgba(0, 0, 0, 0.07);
-  border-radius: 6px;
+  border-radius: 999px;
   padding: 3px 10px;
   margin: 3px 4px 3px 0;
   font-size: 0.88rem;
@@ -85,7 +85,6 @@ a:hover {
   border-radius: 10px;
   overflow: hidden;
   margin-bottom: 2rem;
-  background: #f8f8f8;
   max-width: 680px;
 }
 .photo-carousel__track {
@@ -104,10 +103,11 @@ a:hover {
   display: block;
 }
 .photo-carousel__caption {
-  padding: 0.5rem 1rem 0.6rem;
+  padding: 0.5rem 0 0.6rem;
   font-size: 0.85rem;
   color: #555;
   margin: 0;
+  text-align: center;
 }
 .photo-carousel__btn {
   position: absolute;
@@ -138,7 +138,6 @@ a:hover {
   justify-content: center;
   gap: 7px;
   padding: 6px 0 10px;
-  background: #f8f8f8;
 }
 .photo-carousel__dot {
   width: 8px;
