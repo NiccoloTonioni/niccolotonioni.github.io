@@ -2,42 +2,6 @@
    Custom styles — niccolotonioni.github.io
    ================================================ */
 
-/* --- Task 2: Google Fonts --- */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lora:ital,wght@0,400;1,400&display=swap');
-
-/* --- Task 2: Body & heading typography --- */
-body, .page__content, .archive__item-body {
-  font-family: 'Inter', sans-serif;
-  font-size: 16px;
-  line-height: 1.75;
-  color: #222;
-}
-h1, h2, h3, h4 {
-  font-family: 'Inter', sans-serif;
-  font-weight: 600;
-  letter-spacing: -0.01em;
-}
-.author__bio {
-  font-family: 'Lora', serif;
-  font-style: italic;
-  font-size: 0.95rem;
-  color: #444;
-}
-
-/* --- Task 2: Sidebar author name & links --- */
-.author__name {
-  font-size: 1.2rem;
-  font-weight: 600;
-  letter-spacing: -0.01em;
-}
-.author__urls a {
-  font-size: 0.85rem;
-  color: #555;
-}
-.author__urls a:hover {
-  color: #000;
-}
-
 /* --- Task 4: Greeting & research interest tags --- */
 /* Targets the emoji strip paragraph immediately after the h1 */
 .page__content > p:first-of-type {
@@ -118,7 +82,6 @@ a:hover {
   max-width: 1200px;
 }
 .greedy-nav a {
-  font-family: 'Inter', sans-serif;
   font-size: 0.82rem;
   font-weight: 500;
   letter-spacing: 0.03em;
