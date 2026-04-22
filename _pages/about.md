@@ -28,8 +28,16 @@ I am an alumnus of the **Von Karman Institute**. My European academic journey ha
   <div class="news-dot"></div>
   <div class="news-card__date">{{ item.date | date: "%B %Y" }}</div>
   <div class="news-card__body">
-    <strong>{% if item.link %}<a href="{{ item.link }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</strong>
+    <strong>{{ item.title }}</strong>
     {% if item.snippet %}<p>{{ item.snippet }}</p>{% endif %}
+    {% if item.paper or item.arxiv or item.webpage or item.code %}
+    <div class="news-card__links">
+      {% if item.paper %}<a href="{{ item.paper }}" class="news-link" target="_blank">📄 Paper</a>{% endif %}
+      {% if item.arxiv %}<a href="{{ item.arxiv }}" class="news-link" target="_blank">📃 arXiv</a>{% endif %}
+      {% if item.webpage %}<a href="{{ item.webpage }}" class="news-link" target="_blank">🌐 Project</a>{% endif %}
+      {% if item.code %}<a href="{{ item.code }}" class="news-link" target="_blank">💻 Code</a>{% endif %}
+    </div>
+    {% endif %}
   </div>
 </div>
 {% endfor %}

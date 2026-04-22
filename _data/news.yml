@@ -1,3 +1,17 @@
+- date: "2025-09-01"
+  title: "VIVALDy Paper: Extended version of the framework presented at AiFluids, Chania"
+  snippet: >
+    Our latest work published in Physical Review Fluids extends the framework initially presented at AiFluids 2025
+    with deeper analysis of the learned latent space dynamics. VIVALDy combines
+    a β-VAE-GAN architecture with transformers to reconstruct vortex-induced
+    vibrations from cylinder displacement alone, revealing physically meaningful
+    flow structures through latent space topology.
+  paper: "https://journals.aps.org/prfluids/abstract/10.1103/t7d2-mv5c"
+  arxiv: "https://arxiv.org/abs/2509.24965"
+  webpage: "https://niccolotonioni.github.io/vivaldy.github.io/"
+  code: "https://github.com/NiccoloTonioni/vivaldy_code"
+  ai_generated: false
+
 - date: "2025-05-01"
   title: "VIVALDy debuts at AiFluids – Chania"
   snippet: >
@@ -9,7 +23,7 @@
   link: "/talks/2025-05-aifluids"
   ai_generated: false
 
-- date: "2025-06-01"
+- date: "2025-04-01"
   title: "Presented at EUROMECH 629 – London"
   snippet: >
     Our work on modeling near-wall turbulence using a β-VAE-GAN and transformer
