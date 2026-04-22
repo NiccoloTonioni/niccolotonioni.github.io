@@ -12,7 +12,7 @@ from scholarly import scholarly
 from google import genai
 
 # ── Configuration ──────────────────────────────────────────────────────────────
-SCHOLAR_ID = "REPLACE_WITH_YOUR_ID"   # <-- set your Google Scholar ID here
+SCHOLAR_ID = "wTTFZvUAAAAJ&hl"   
 
 GEMINI_MODEL = "gemini-2.0-flash"
 GEMINI_SYSTEM_PROMPT = (
