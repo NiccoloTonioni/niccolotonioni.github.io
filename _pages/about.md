@@ -8,9 +8,13 @@ redirect_from:
 ---
 # Hi, I'm Niccolò
 
-🌊 Turbulent Flows · 🤖 Deep Learning · 📉 Reduced-Order Modelling · 🔬 CFD
-
-Hello!
+<p class="interest-tags">
+  <span class="interest-tag">🌊 Turbulent Flows</span>
+  <span class="interest-tag">🤖 Deep Learning</span>
+  <span class="interest-tag">📉 Reduced-Order Modelling</span>
+  <span class="interest-tag">🔬 CFD</span>
+  <span class="interest-tag">🧬 AI4Science</span>
+</p>
 
 I am a PhD candidate in Fluid Mechanics at Université de Poitiers. My research focuses on fluid dynamical system prediction and reduced-order modeling 🌪️, leveraging deep learning methods such as autoencoders and transformers 🤖.
 
@@ -38,20 +42,59 @@ Photos from around the world
 ======
 *A glimpse of the cities where research takes me*
 
-<div class="photo-gallery">
-  <div class="photo-item">
-    <img src="/images/chania-harbor.jpg" alt="Chania Harbor at sunset">
-    <p><em>Chania, Greece</em> - Venetian Harbor during AiFluids 2025</p>
+<div class="photo-carousel" id="photoCarousel">
+  <div class="photo-carousel__track" id="carouselTrack">
+    <div class="photo-carousel__slide">
+      <img src="/photos_world/minato-city.jpg" alt="Minato city skyline">
+      <p class="photo-carousel__caption"><em>Tokyo, Japan</em> — Minato city skyline at midnight during THMT 2025</p>
+    </div>
+    <div class="photo-carousel__slide">
+      <img src="/photos_world/godzilla.jpg" alt="Godzilla head">
+      <p class="photo-carousel__caption"><em>Tokyo, Japan</em> — ゴジラ (Gojira) at Shinjuku during THMT 2025</p>
+    </div>
+    <div class="photo-carousel__slide">
+      <img src="/photos_world/chania-goat.jpg" alt="Beautiful chania goat">
+      <p class="photo-carousel__caption"><em>Chania, Greece</em> — Wonderful goat near AiFluids 2025 venue</p>
+    </div>
+    <div class="photo-carousel__slide">
+      <img src="/photos_world/chania-monk.jpg" alt="Agia Triada Monastery">
+      <p class="photo-carousel__caption"><em>Chania, Greece</em> — Agia Triada Monastery after AiFluids 2025</p>
+    </div>
   </div>
-  
-  <div class="photo-item">
-    <img src="/images/london-thames.jpg" alt="London Thames view">
-    <p><em>London, UK</em> - Thames view near EUROMECH 629 venue</p>
-  </div>
-  
-  <div class="photo-item">
-    <img src="/images/paris-seine.jpg" alt="Paris Seine at dusk">
-    <p><em>Paris, France</em> - Seine reflections after DTE AICOMAS 2025</p>
+  <button class="photo-carousel__btn photo-carousel__btn--prev" aria-label="Previous">&#8249;</button>
+  <button class="photo-carousel__btn photo-carousel__btn--next" aria-label="Next">&#8250;</button>
+  <div class="photo-carousel__dots">
+    <button class="photo-carousel__dot active" aria-label="Slide 1"></button>
+    <button class="photo-carousel__dot" aria-label="Slide 2"></button>
+    <button class="photo-carousel__dot" aria-label="Slide 3"></button>
+    <button class="photo-carousel__dot" aria-label="Slide 4"></button>
   </div>
 </div>
+
+<script>
+(function () {
+  var carousel = document.getElementById('photoCarousel');
+  var track    = carousel.querySelector('.photo-carousel__track');
+  var dots     = carousel.querySelectorAll('.photo-carousel__dot');
+  var total    = carousel.querySelectorAll('.photo-carousel__slide').length;
+  var current  = 0;
+  var startX   = 0;
+
+  function goTo(n) {
+    current = ((n % total) + total) % total;
+    track.style.transform = 'translateX(-' + (current * 100) + '%)';
+    dots.forEach(function (d, i) { d.classList.toggle('active', i === current); });
+  }
+
+  carousel.querySelector('.photo-carousel__btn--prev').addEventListener('click', function () { goTo(current - 1); });
+  carousel.querySelector('.photo-carousel__btn--next').addEventListener('click', function () { goTo(current + 1); });
+  dots.forEach(function (d, i) { d.addEventListener('click', function () { goTo(i); }); });
+
+  track.addEventListener('touchstart', function (e) { startX = e.touches[0].clientX; }, { passive: true });
+  track.addEventListener('touchend',   function (e) {
+    var dx = e.changedTouches[0].clientX - startX;
+    if (Math.abs(dx) > 40) goTo(current + (dx < 0 ? 1 : -1));
+  }, { passive: true });
+}());
+</script>
 
