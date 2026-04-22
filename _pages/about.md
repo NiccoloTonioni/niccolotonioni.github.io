@@ -6,6 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Hi, I'm Niccolò
+
+🌊 Turbulent Flows · 🤖 Deep Learning · 📉 Reduced-Order Modelling · 🔬 CFD
+
 Hello!
 
 I am a PhD candidate in Fluid Mechanics at Université de Poitiers. My research focuses on fluid dynamical system prediction and reduced-order modeling 🌪️, leveraging deep learning methods such as autoencoders and transformers 🤖.
