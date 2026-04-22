@@ -81,15 +81,3 @@ a:hover {
 .masthead__inner-wrap {
   max-width: 1200px;
 }
-.greedy-nav a {
-  font-size: 0.82rem;
-  font-weight: 500;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #333;
-}
-.greedy-nav a:hover,
-.greedy-nav .current {
-  color: #000;
-  border-bottom: 2px solid #000;
-}
