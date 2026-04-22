@@ -49,3 +49,25 @@
   font-size: 0.85rem;
   color: #666;
 }
+
+/* --- Task 7: Global spacing, link style, footer --- */
+.page__content {
+  max-width: 780px;
+}
+
+a {
+  color: #1a1a1a;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+a:hover {
+  border-bottom-color: #1a1a1a;
+}
+
+.page__footer {
+  font-size: 0.78rem;
+  color: #aaa;
+  border-top: 1px solid #eee;
+  padding-top: 1rem;
+}
