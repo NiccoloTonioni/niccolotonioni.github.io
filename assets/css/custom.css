@@ -3,8 +3,30 @@
    ================================================ */
 
 /* --- Task 4: Greeting & research interest tags --- */
+/* Targets the emoji strip paragraph immediately after the h1 */
 .page__content > p:first-of-type {
   font-size: 1rem;
   color: #555;
   margin-bottom: 1.5rem;
+}
+
+/* --- Task 5: News feed card layout --- */
+.news-item {
+  border-left: 3px solid #e0e0e0;
+  padding: 0.6rem 0 0.6rem 1rem;
+  margin-bottom: 1.2rem;
+}
+.news-item .news-date {
+  font-size: 0.78rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #999;
+  margin-bottom: 0.2rem;
+}
+.news-item p {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: #333;
 }
