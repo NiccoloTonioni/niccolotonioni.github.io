@@ -1,0 +1,29 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="talk-card">
+  <div class="talk-card__content">
+    <h3 class="talk-card__title">
+      <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
+    </h3>
+    <div class="talk-card__meta">
+      {% if post.type %}<span class="talk-card__type">{{ post.type }}</span>{% endif %}
+      {% if post.venue %}<span class="talk-card__venue">{{ post.venue }}</span>{% endif %}
+      {% if post.date %}<span class="talk-card__date">{{ post.date | date: "%b %Y" }}</span>{% endif %}
+      {% if post.location %}<span class="talk-card__location">📍 {{ post.location }}</span>{% endif %}
+    </div>
+    {% if post.excerpt %}
+    <p class="talk-card__excerpt">{{ post.excerpt | strip_html | truncate: 280 }}</p>
+    {% endif %}
+  </div>
+  {% if post.header.teaser %}
+  <figure class="talk-card__media">
+    <img src="{% if post.header.teaser contains '://' %}{{ post.header.teaser }}{% else %}{{ post.header.teaser | prepend: '/images/' }}{% endif %}" alt="{{ title }}">
+  </figure>
+  {% endif %}
+</div>

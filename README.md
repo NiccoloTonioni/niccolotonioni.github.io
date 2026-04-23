@@ -50,6 +50,14 @@ Next, run the container:
 docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
 ```
 
+Alternatively, use the convenience script in `scripts/serve_local.sh`, which pulls the official Jekyll image and mounts the project automatically:
+
+```bash
+bash scripts/serve_local.sh
+```
+
+The site will be available at [http://localhost:4000](http://localhost:4000) and will reload automatically on file changes.
+
 # Maintenance
 
 Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).

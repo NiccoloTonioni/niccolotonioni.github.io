@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Hi, I'm Niccolò
 
 <p class="interest-tags">
   <span class="interest-tag">🌊 Turbulent Flows</span>
@@ -19,7 +18,10 @@ I am a PhD candidate in **Fluid Mechanics** at **Université de Poitiers**. My r
 
 I am an alumnus of the **Von Karman Institute**. My European academic journey has taken me across Italy, Belgium, and France, shaping both my research perspective and my appreciation for diverse cultures. Having lived in Belgium for over three years, I remain deeply connected to its culture. However, as a true Italian at heart, pizza reigns supreme.
 
-## Latest News
+<div style="display:flex; justify-content:space-between; align-items:baseline; margin: 1.5em 0 0.6em;">
+  <h2 style="margin:0;">Latest News</h2>
+  <a href="/news/" style="font-size:0.8rem; color:seagreen; text-decoration:none; font-weight:600; border-bottom:none;">All news →</a>
+</div>
 
 <div class="news-timeline">
 {% assign news_sorted = site.data.news | sort: "date" | reverse %}
