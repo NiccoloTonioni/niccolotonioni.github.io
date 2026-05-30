@@ -1,0 +1,96 @@
+{
+  "stats": {
+    "top_cited_authors": [
+      {"name": "A. Vaswani", "count": 4},
+      {"name": "I. Higgins", "count": 4},
+      {"name": "I. Goodfellow", "count": 4},
+      {"name": "R. Vinuesa", "count": 3},
+      {"name": "S. B. Pope", "count": 2}
+    ],
+    "top_cited_papers": [
+      {"title": "Attention Is All You Need (Vaswani et al., 2017)", "count": 4},
+      {"title": "beta-VAE: Learning Basic Visual Concepts (Higgins et al., 2017)", "count": 4},
+      {"title": "Generative Adversarial Networks (Goodfellow et al., 2014)", "count": 3},
+      {"title": "Deep Learning (Goodfellow, Bengio & Courville, 2016)", "count": 2},
+      {"title": "Turbulent Flows (Pope, 2000)", "count": 2}
+    ],
+    "most_influential_year": {"year": 2017, "count": 9}
+  },
+  "publications": [
+    {
+      "title": "VIVALDy: A Hybrid Generative Reduced-Order Model for Turbulent Flows, Applied to Vortex-Induced Vibrations",
+      "date": "2026-04-03",
+      "permalink": "/publication/2026-04-03-vivaldy-prf",
+      "pubtype": "journal",
+      "map_coords": {
+        "umap": {"x": 2.1, "y": 0.8},
+        "pca": {"x": 1.8, "y": 0.5}
+      },
+      "ai_results": {
+        "category": "Vortex-Induced Vibrations",
+        "summary": "Introduces VIVALDy, a hybrid beta-VAE-GAN and bidirectional transformer framework for reduced-order modeling of turbulent flows. Validated on vortex-induced vibration (VIV) systems, predicting flow states from cylinder displacement alone. Published in Physical Review Fluids."
+      },
+      "s2_metadata": {"year": 2026}
+    },
+    {
+      "title": "VIVALDy: A Hybrid Generative Reduced-Order Model for Turbulent Flows, Applied to Vortex-Induced Vibrations",
+      "date": "2025-09-25",
+      "permalink": "/publication/2025-09-29-vivaldy",
+      "pubtype": "preprint",
+      "map_coords": {
+        "umap": {"x": 1.7, "y": 1.2},
+        "pca": {"x": 1.4, "y": 0.9}
+      },
+      "ai_results": {
+        "category": "Vortex-Induced Vibrations",
+        "summary": "arXiv preprint of VIVALDy: a beta-VAE-GAN and transformer framework for modeling turbulent flows around a moving cylinder in VIV systems using only cylinder displacement as input."
+      },
+      "s2_metadata": {"year": 2025}
+    },
+    {
+      "title": "VIVALDy: AI-Driven Low-Order Modeling of Vortex-Induced Vibrations via beta-Variational Autoencoders, Transformers, and Adversarial Training",
+      "date": "2025-05-27",
+      "permalink": "/publication/2025-05-27-aifluids",
+      "pubtype": "conference",
+      "map_coords": {
+        "umap": {"x": 1.3, "y": 0.3},
+        "pca": {"x": 1.0, "y": 0.2}
+      },
+      "ai_results": {
+        "category": "Vortex-Induced Vibrations",
+        "summary": "Conference paper at AiFluids 2025 (Chania, Greece) presenting VIVALDy for low-order modeling of vortex-induced vibrations using beta-VAE-GAN and transformer architectures."
+      },
+      "s2_metadata": {"year": 2025}
+    },
+    {
+      "title": "Data-driven modeling of near-wall turbulence using beta-variational autoencoder, transformers, and adversarial loss",
+      "date": "2025-07-21",
+      "permalink": "/publication/2025-07-21-thmt25",
+      "pubtype": "conference",
+      "map_coords": {
+        "umap": {"x": -1.4, "y": 1.1},
+        "pca": {"x": -1.1, "y": 0.8}
+      },
+      "ai_results": {
+        "category": "Near-wall Turbulence",
+        "summary": "Conference paper at THMT-25 (Tokyo, Japan). A beta-VAE-GAN and decoder-only transformer framework for data-driven modeling of near-wall turbulence in a minimal channel flow at Re_tau=200. Demonstrates accurate latent space forecasting within one Lyapunov time."
+      },
+      "s2_metadata": {"year": 2025}
+    },
+    {
+      "title": "Simulation of a wingtip vortex flow with Linear Eddy Viscosity turbulence models at Re=4.6E6 and Re=1.2E6",
+      "date": "2022-10-06",
+      "permalink": "/publication/2022-10-06-simulation-wingtip-vortex",
+      "pubtype": "masterthesis",
+      "map_coords": {
+        "umap": {"x": -2.8, "y": -1.3},
+        "pca": {"x": -2.2, "y": -1.0}
+      },
+      "ai_results": {
+        "category": "Computational Fluid Dynamics",
+        "summary": "Master thesis studying the accuracy of Linear Eddy Viscosity models (Spalart-Allmaras, SST) for wingtip vortex flow simulation using SU2 at two Reynolds numbers. Compares RANS results with experimental data."
+      },
+      "s2_metadata": {"year": 2022}
+    }
+  ]
+}

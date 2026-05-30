@@ -1,0 +1,20 @@
+{% include base_path %}
+
+<div class="teaching-card">
+  <div class="teaching-card__header">
+    <div>
+      <h3 class="teaching-card__title">
+        <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+      </h3>
+      <div class="teaching-card__meta">
+        <span class="teaching-card__type">{{ post.type }}</span>
+        <span class="teaching-card__venue">{{ post.venue }}</span>
+        <span class="teaching-card__date">{{ post.date | date: "%Y" }}</span>
+        {% if post.location %}<span class="teaching-card__location">📍 {{ post.location }}</span>{% endif %}
+      </div>
+    </div>
+  </div>
+  {% if post.excerpt %}
+  <p class="teaching-card__excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+  {% endif %}
+</div>
