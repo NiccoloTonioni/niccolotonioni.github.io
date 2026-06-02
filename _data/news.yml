@@ -9,6 +9,16 @@
   code: "https://github.com/NiccoloTonioni/vivaldy_code"
   ai_generated: false
 
+- date: "2025-09-25"
+  title: "VIVALDy preprint on arXiv"
+  snippet: >
+    The VIVALDy preprint is now available on arXiv. The framework combines a β-VAE-GAN with masked
+    convolutions and a bidirectional transformer to reconstruct turbulent flow around a moving cylinder
+    using only cylinder displacement as input.
+  arxiv: "https://arxiv.org/abs/2509.24965"
+  webpage: "https://niccolotonioni.github.io/vivaldy"
+  ai_generated: false
+
 - date: "2025-07-01"
   title: "Presented at THMT-25 – Tokyo"
   snippet: >
@@ -23,9 +33,10 @@
 - date: "2025-05-01"
   title: "VIVALDy debuts at AiFluids – Chania"
   snippet: >
-    VIVALDy was presented at AiFluids 2025 in Chania, Greece. It combines a β-VAE-GAN architecture 
-    with transformers to model vortex-induced vibrations from cylinder displacement alone. 
+    VIVALDy was presented at AiFluids 2025 in Chania, Greece. It combines a β-VAE-GAN architecture
+    with transformers to model vortex-induced vibrations from cylinder displacement alone.
   link: "/talks/2025-05-aifluids"
+  paper: "https://hal.science/hal-05357823"
   ai_generated: false
 
 - date: "2025-04-01"
