@@ -231,6 +231,7 @@ input[type="radio"]:focus,
 input[type="checkbox"]:focus,
 select:focus {
   box-shadow: none;
+  outline: 0;
 }
 
 
