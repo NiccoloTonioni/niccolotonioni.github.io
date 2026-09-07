@@ -1,3 +1,21 @@
+- date: "2026-07-01"
+  title: "France–Stanford Center Visiting Student Researcher Fellowship 🏆"
+  snippet: >
+    Awarded the France–Stanford Center Visiting Student Researcher Fellowship to visit Stanford University
+    (Oct.–Nov. 2026), hosted by Prof. Beverley J. McKeon. The project focuses on applying explainable-AI
+    methods (SHAP) to quantify the contribution of coherent structures in unsteady turbulent boundary layers.
+  link: "https://francestanford.stanford.edu/projects/quantifying-structure-evolution-unsteady-turbulent-boundary-layers"
+  ai_generated: false
+
+- date: "2026-06-10"
+  title: "Presented at EUROMECH Colloquium 665 – Paris"
+  snippet: >
+    Presented "Navigating the Intermittency: A Generative Surrogate for Long-Horizon Forecasting of
+    Minimal Flow Unit from Sparse Measurements" at EUROMECH Colloquium 665 on Data-driven active control
+    in flows (Paris, 8–10 June 2026).
+  link: "/talks/2026-06-euromech665"
+  ai_generated: false
+
 - date: "2026-04-02"
   title: "VIVALDy Paper Published: Extended version of the framework presented at AiFluids, Chania"
   snippet: >

@@ -110,6 +110,15 @@ redirect_from:
   <h2 class="cv-section__title">Work Experience</h2>
 
   <div class="cv-entry">
+    <div class="cv-entry__year">Oct–Nov 2026</div>
+    <div class="cv-entry__body">
+      <div class="cv-entry__title">Visiting Student Researcher <span style="font-size:0.7em;color:seagreen;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;">upcoming</span></div>
+      <div class="cv-entry__institution">Stanford University 🇺🇸</div>
+      <div class="cv-entry__detail">Host: Beverley J. McKeon · Applying SHAP methods to quantify coherent-structure contributions in unsteady turbulent boundary layers · Supported by the France–Stanford Center Visiting Student Researcher Fellowship</div>
+    </div>
+  </div>
+
+  <div class="cv-entry">
     <div class="cv-entry__year">Jun 2025</div>
     <div class="cv-entry__body">
       <div class="cv-entry__title">Visiting PhD Student</div>
@@ -168,6 +177,15 @@ redirect_from:
 
 <div class="cv-section">
   <h2 class="cv-section__title">Awards &amp; Honors</h2>
+
+  <div class="cv-entry">
+    <div class="cv-entry__year">Jul 2026</div>
+    <div class="cv-entry__body">
+      <div class="cv-entry__title">France–Stanford Center Visiting Student Researcher Fellowship 🏆</div>
+      <div class="cv-entry__institution"><a href="https://francestanford.stanford.edu/projects/quantifying-structure-evolution-unsteady-turbulent-boundary-layers">France–Stanford Center for Interdisciplinary Studies</a></div>
+      <div class="cv-entry__detail">Awarded to support a research visit at Stanford University (Oct.–Nov. 2026) hosted by Prof. Beverley J. McKeon</div>
+    </div>
+  </div>
 
   <div class="cv-entry">
     <div class="cv-entry__year">Oct 2022</div>
