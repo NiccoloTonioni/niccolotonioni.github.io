@@ -92,6 +92,7 @@ author_profile: true
     {% if item.snippet %}<p class="news-archive-snippet">{{ item.snippet }}</p>{% endif %}
     <div class="news-archive-links">
       {% if item.link %}<a href="{{ item.link }}" class="news-archive-link">🔗 Read more</a>{% endif %}
+      {% if item.slides %}<a href="{{ item.slides }}" class="news-archive-link" target="_blank">📊 Slides</a>{% endif %}
       {% if item.paper %}<a href="{{ item.paper }}" class="news-archive-link" target="_blank">📄 Paper</a>{% endif %}
       {% if item.arxiv %}<a href="{{ item.arxiv }}" class="news-archive-link" target="_blank">📃 arXiv</a>{% endif %}
       {% if item.webpage %}<a href="{{ item.webpage }}" class="news-archive-link" target="_blank">🌐 Project</a>{% endif %}
