@@ -1,0 +1,1202 @@
+{
+  "a hybrid generative reducedorder model for the minimal flow unit": [
+    {
+      "paperId": "3afddd9dcc58aa41c0486d55f4ddba04b484b9a6",
+      "title": "VIVALDy: A hybrid generative reduced-order model for turbulent flows, applied to vortex-induced vibrations",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2382917687",
+          "name": "Niccolo Tonioni"
+        },
+        {
+          "authorId": "2275352251",
+          "name": "Lionel Agostini"
+        },
+        {
+          "authorId": "2083665530",
+          "name": "Franck Kerherv'e"
+        },
+        {
+          "authorId": "2275352466",
+          "name": "L. Cordier"
+        },
+        {
+          "authorId": "2354100795",
+          "name": "R. Vinuesa"
+        }
+      ]
+    },
+    {
+      "paperId": "7e620e7bcc7323905808f2d37c9c6f006110c7ab",
+      "title": "On deep-learning-based closures for algebraic surrogate models of turbulent flows",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2184447303",
+          "name": "B. Eiximeno"
+        },
+        {
+          "authorId": "2233289790",
+          "name": "M. Sanchis-Agudo"
+        },
+        {
+          "authorId": "2333907867",
+          "name": "Arnau Mir\u00f3"
+        },
+        {
+          "authorId": "2333912254",
+          "name": "I. Rodr\u00edguez"
+        },
+        {
+          "authorId": "2237984262",
+          "name": "R. Vinuesa"
+        },
+        {
+          "authorId": "2882972",
+          "name": "O. Lehmkuhl"
+        }
+      ]
+    },
+    {
+      "paperId": "a46921a8a0575e4a56bfebd09e2886c0bb57d9a8",
+      "title": "SOD2D: A GPU-enabled Spectral Finite Elements Method for compressible scale-resolving simulations",
+      "year": 2023,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Lucas Gasparino"
+        },
+        {
+          "authorId": "2596620",
+          "name": "F. Spiga"
+        },
+        {
+          "authorId": "2882972",
+          "name": "O. Lehmkuhl"
+        }
+      ]
+    },
+    {
+      "paperId": "405964210cfcdf6583d52d2ef19bc2f0a6533879",
+      "title": "Perspectives on predicting and controlling turbulent flows through deep learning",
+      "year": 2023,
+      "authors": [
+        {
+          "authorId": "15687110",
+          "name": "R. Vinuesa"
+        }
+      ]
+    },
+    {
+      "paperId": "c257269b727f5ebe91cd528ee28396268c370b56",
+      "title": "Easy attention: A simple attention mechanism for temporal predictions with transformers",
+      "year": 2023,
+      "authors": [
+        {
+          "authorId": "2233289790",
+          "name": "M. Sanchis-Agudo"
+        },
+        {
+          "authorId": "2268406468",
+          "name": "Yu-Ning Wang"
+        },
+        {
+          "authorId": "2092893913",
+          "name": "R. Arnau"
+        },
+        {
+          "authorId": "114864828",
+          "name": "L. Guastoni"
+        },
+        {
+          "authorId": "2301404006",
+          "name": "Jasmin Y. Lim"
+        },
+        {
+          "authorId": "2301322907",
+          "name": "Karthik Duraisamy"
+        },
+        {
+          "authorId": "2354100799",
+          "name": "Ricardo Vinuesa"
+        }
+      ]
+    },
+    {
+      "paperId": "eb6d91768c059a18a3bfe04fb9104de53135e62a",
+      "title": "\u03b2-Variational autoencoders and transformers for reduced-order modelling of fluid flows",
+      "year": 2023,
+      "authors": [
+        {
+          "authorId": "2213996142",
+          "name": "A. Solera-Rico"
+        },
+        {
+          "authorId": "2495356344",
+          "name": "Carlos Sanmiguel Vila"
+        },
+        {
+          "authorId": "2495117272",
+          "name": "M. G\u00f3mez L\u00f3pez"
+        },
+        {
+          "authorId": "2268406468",
+          "name": "Yu-Ning Wang"
+        },
+        {
+          "authorId": "2205558874",
+          "name": "Abdulrahman Almashjary"
+        },
+        {
+          "authorId": "143978751",
+          "name": "Scott T. M. Dawson"
+        },
+        {
+          "authorId": "2354100799",
+          "name": "Ricardo Vinuesa"
+        }
+      ]
+    },
+    {
+      "paperId": "39a582e3e098f7a6d3aeb7c6bd6914743f4344e9",
+      "title": "Predicting the wall-shear stress and wall pressure through convolutional neural networks",
+      "year": 2023,
+      "authors": [
+        {
+          "authorId": "2210185894",
+          "name": "A. G. Balasubramanian"
+        },
+        {
+          "authorId": "114864828",
+          "name": "L. Guastoni"
+        },
+        {
+          "authorId": "2880353",
+          "name": "P. Schlatter"
+        },
+        {
+          "authorId": "2131176889",
+          "name": "H. Azizpour"
+        },
+        {
+          "authorId": "15687110",
+          "name": "R. Vinuesa"
+        }
+      ]
+    },
+    {
+      "paperId": "7e9619f871a3a2eb83f0baa13a4bd30dabc6cee5",
+      "title": "Dynamics of a data-driven low-dimensional model of turbulent minimal Couette flow",
+      "year": 2023,
+      "authors": [
+        {
+          "authorId": "1482546512",
+          "name": "Alec J. Linot"
+        },
+        {
+          "authorId": "34244359",
+          "name": "M. Graham"
+        }
+      ]
+    },
+    {
+      "paperId": "736973165f98105fec3729b7db414ae4d80fcbeb",
+      "title": "Scalable Diffusion Models with Transformers",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "35235273",
+          "name": "William S. Peebles"
+        },
+        {
+          "authorId": "1817030",
+          "name": "Saining Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "8b54c2268dc2c3694096c86a02b1493115ce2452",
+      "title": "On interpretability and proper latent decomposition of autoencoders",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "2588185",
+          "name": "L. Magri"
+        },
+        {
+          "authorId": "2461150687",
+          "name": "D. A. K. Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "4e1a79e343fc9faa877e7df541624f0def245a57",
+      "title": "Auto-encoder-assisted analysis of amplitude and wavelength modulation of near-wall turbulence byouter large-scale structures in channel flow at friction Reynolds number of 5200",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "50646982",
+          "name": "L. Agostini"
+        },
+        {
+          "authorId": "2062675",
+          "name": "M. Leschziner"
+        }
+      ]
+    },
+    {
+      "paperId": "01ad52f9a7535e7cf18a92985190008c2aa2f6ce",
+      "title": "Breaking the Kolmogorov Barrier with Nonlinear Model Reduction",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "2863679",
+          "name": "B. Peherstorfer"
+        }
+      ]
+    },
+    {
+      "paperId": "f8ec29fb9933219e0949c59ddd7220fd1e2a1b89",
+      "title": "Enhancing computational fluid dynamics with machine learning",
+      "year": 2021,
+      "authors": [
+        {
+          "authorId": "2351290252",
+          "name": "Ricardo Vinuesa"
+        },
+        {
+          "authorId": "3083169",
+          "name": "S. Brunton"
+        }
+      ]
+    },
+    {
+      "paperId": "4dc7c1fdade2f516da9e4d327415d27774aa1dfb",
+      "title": "Disentangling Generative Factors of Physical Fields Using Variational Autoencoders",
+      "year": 2021,
+      "authors": [
+        {
+          "authorId": "3026678",
+          "name": "Christian L. Jacobsen"
+        },
+        {
+          "authorId": "1974037",
+          "name": "K. Duraisamy"
+        }
+      ]
+    },
+    {
+      "paperId": "f3bf291d5b68c77b51a18dbe3a8575fb88b0e89b",
+      "title": "High-Fidelity Generative Image Compression",
+      "year": 2020,
+      "authors": [
+        {
+          "authorId": "3468078",
+          "name": "Fabian Mentzer"
+        },
+        {
+          "authorId": "1805076",
+          "name": "G. Toderici"
+        },
+        {
+          "authorId": "143902495",
+          "name": "Michael Tschannen"
+        },
+        {
+          "authorId": "2794259",
+          "name": "E. Agustsson"
+        }
+      ]
+    },
+    {
+      "paperId": "432ed1fc40bb55604b4c04dad7f1b3391bee5aa1",
+      "title": "Exploration and prediction of fluid dynamical systems using auto-encoder technology",
+      "year": 2020,
+      "authors": [
+        {
+          "authorId": "50646982",
+          "name": "L. Agostini"
+        }
+      ]
+    },
+    {
+      "paperId": "706bedbcb44df6f23f5d9a2f2a82d9235ff7f5c6",
+      "title": "Breaking the Kolmogorov Barrier in Model Reduction of Fluid Flows",
+      "year": 2020,
+      "authors": [
+        {
+          "authorId": "2109162036",
+          "name": "Shady E. Ahmed"
+        },
+        {
+          "authorId": "3071838",
+          "name": "O. San"
+        }
+      ]
+    },
+    {
+      "paperId": "ef4f5a50837a7c1b3e87b9300ffc7ba00d461a0f",
+      "title": "Decision-Making with Auto-Encoding Variational Bayes",
+      "year": 2020,
+      "authors": [
+        {
+          "authorId": "39848341",
+          "name": "Romain Lopez"
+        },
+        {
+          "authorId": "1441878314",
+          "name": "Pierre Boyeau"
+        },
+        {
+          "authorId": "2163873",
+          "name": "N. Yosef"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        },
+        {
+          "authorId": "39967607",
+          "name": "Jeffrey C. Regier"
+        }
+      ]
+    },
+    {
+      "paperId": "4087e84fc695bb6433d0104ee94f9d7e9f4b7da5",
+      "title": "Machine Learning for Fluid Mechanics",
+      "year": 2019,
+      "authors": [
+        {
+          "authorId": "3083169",
+          "name": "S. Brunton"
+        },
+        {
+          "authorId": "144875384",
+          "name": "B. R. Noack"
+        },
+        {
+          "authorId": "1802604",
+          "name": "P. Koumoutsakos"
+        }
+      ]
+    },
+    {
+      "paperId": "845cafab91da3441d56a8740f0c8038916863dcb",
+      "title": "Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing",
+      "year": 2019,
+      "authors": [
+        {
+          "authorId": "2113505900",
+          "name": "Hao Fu"
+        },
+        {
+          "authorId": "2109737569",
+          "name": "Chun-Yuan Li"
+        },
+        {
+          "authorId": "46522098",
+          "name": "Xiaodong Liu"
+        },
+        {
+          "authorId": "1800422",
+          "name": "Jianfeng Gao"
+        },
+        {
+          "authorId": "1709797",
+          "name": "Asli Celikyilmaz"
+        },
+        {
+          "authorId": "145006560",
+          "name": "L. Carin"
+        }
+      ]
+    },
+    {
+      "paperId": "e4a5a510c05eb344eb2a94bd9b5433f83bb79f4f",
+      "title": "Decay of the Kolmogorov $N$-width for wave problems",
+      "year": 2019,
+      "authors": [
+        {
+          "authorId": "88669627",
+          "name": "C. Greif"
+        },
+        {
+          "authorId": "38295792",
+          "name": "K. Urban"
+        }
+      ]
+    },
+    {
+      "paperId": "36a2a633dfec3ca8746f520ebe780343a8a2aee8",
+      "title": "Deep Generative Models for Distribution-Preserving Lossy Compression",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "143902495",
+          "name": "Michael Tschannen"
+        },
+        {
+          "authorId": "2794259",
+          "name": "E. Agustsson"
+        },
+        {
+          "authorId": "34302129",
+          "name": "M. Lu\u010di\u0107"
+        }
+      ]
+    },
+    {
+      "paperId": "287547fc81364e64d196abb8d891ade3f6599a5a",
+      "title": "Understanding disentangling in \u03b2-VAE",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "145463968",
+          "name": "Christopher P. Burgess"
+        },
+        {
+          "authorId": "39051054",
+          "name": "I. Higgins"
+        },
+        {
+          "authorId": "3422676",
+          "name": "Arka Pal"
+        },
+        {
+          "authorId": "2367480",
+          "name": "L. Matthey"
+        },
+        {
+          "authorId": "47969823",
+          "name": "Nicholas Watters"
+        },
+        {
+          "authorId": "2755582",
+          "name": "Guillaume Desjardins"
+        },
+        {
+          "authorId": "2289726",
+          "name": "Alexander Lerchner"
+        }
+      ]
+    },
+    {
+      "paperId": "32f0c95cee39eba143452d6a0fe93283575257e6",
+      "title": "Generative Adversarial Networks for Extreme Learned Image Compression",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "2794259",
+          "name": "E. Agustsson"
+        },
+        {
+          "authorId": "143902495",
+          "name": "Michael Tschannen"
+        },
+        {
+          "authorId": "3468078",
+          "name": "Fabian Mentzer"
+        },
+        {
+          "authorId": "1732855",
+          "name": "R. Timofte"
+        },
+        {
+          "authorId": "1681236",
+          "name": "L. Van Gool"
+        }
+      ]
+    },
+    {
+      "paperId": "84de7d27e2f6160f634a483e8548c499a2cda7fa",
+      "title": "Spectral Normalization for Generative Adversarial Networks",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "3213400",
+          "name": "Takeru Miyato"
+        },
+        {
+          "authorId": "2056971870",
+          "name": "T. Kataoka"
+        },
+        {
+          "authorId": "2877296",
+          "name": "M. Koyama"
+        },
+        {
+          "authorId": "51462146",
+          "name": "Yuichi Yoshida"
+        }
+      ]
+    },
+    {
+      "paperId": "683953c9c0e301e5b4ae93ff9f278aee521f6e17",
+      "title": "Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "47316088",
+          "name": "Priya Goyal"
+        },
+        {
+          "authorId": "3127283",
+          "name": "Piotr Doll\u00e1r"
+        },
+        {
+          "authorId": "2983898",
+          "name": "Ross B. Girshick"
+        },
+        {
+          "authorId": "34837514",
+          "name": "P. Noordhuis"
+        },
+        {
+          "authorId": "2065373815",
+          "name": "L. Wesolowski"
+        },
+        {
+          "authorId": "1717990",
+          "name": "Aapo Kyrola"
+        },
+        {
+          "authorId": "3609856",
+          "name": "Andrew Tulloch"
+        },
+        {
+          "authorId": "39978391",
+          "name": "Yang-Qing Jia"
+        },
+        {
+          "authorId": "39353098",
+          "name": "Kaiming He"
+        }
+      ]
+    },
+    {
+      "paperId": "8acbe90d5b852dadea7810345451a99608ee54c7",
+      "title": "Image-to-Image Translation with Conditional Adversarial Networks",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "2094770",
+          "name": "Phillip Isola"
+        },
+        {
+          "authorId": "2436356",
+          "name": "Jun-Yan Zhu"
+        },
+        {
+          "authorId": "1822702",
+          "name": "Tinghui Zhou"
+        },
+        {
+          "authorId": "1763086",
+          "name": "Alexei A. Efros"
+        }
+      ]
+    },
+    {
+      "paperId": "a90226c41b79f8b06007609f39f82757073641e2",
+      "title": "beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "39051054",
+          "name": "I. Higgins"
+        },
+        {
+          "authorId": "2367480",
+          "name": "L. Matthey"
+        },
+        {
+          "authorId": "3422676",
+          "name": "Arka Pal"
+        },
+        {
+          "authorId": "145463968",
+          "name": "Christopher P. Burgess"
+        },
+        {
+          "authorId": "3119801",
+          "name": "X. Glorot"
+        },
+        {
+          "authorId": "46378362",
+          "name": "M. Botvinick"
+        },
+        {
+          "authorId": "14594344",
+          "name": "S. Mohamed"
+        },
+        {
+          "authorId": "2289726",
+          "name": "Alexander Lerchner"
+        }
+      ]
+    },
+    {
+      "paperId": "d9dab7574d56ae81efe6c90c213c6509b36cf950",
+      "title": "Deconvolution and Checkerboard Artifacts",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "2624088",
+          "name": "A. Odena"
+        },
+        {
+          "authorId": "3074927",
+          "name": "V. Dumoulin"
+        },
+        {
+          "authorId": null,
+          "name": "Chris Olah"
+        }
+      ]
+    },
+    {
+      "paperId": "9fb3acc00f08b8adbbd5d5d74ca1012e81040a8b",
+      "title": "Quadrant Analysis in Turbulence Research: History and Evolution",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "1391186790",
+          "name": "J. Wallace"
+        }
+      ]
+    },
+    {
+      "paperId": "af7914506b6a9115c9e17dfd4d8ac9f7c526ef51",
+      "title": "Reduced Basis Methods: Success, Limitations and Future Challenges",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "66930665",
+          "name": "Mario Ohlberger"
+        },
+        {
+          "authorId": "65969049",
+          "name": "S. Rave"
+        }
+      ]
+    },
+    {
+      "paperId": "3e47c4c2dd98c49b7771c7228812d5fd9eee56a3",
+      "title": "Importance Weighted Autoencoders",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "3080409",
+          "name": "Yuri Burda"
+        },
+        {
+          "authorId": "1785346",
+          "name": "R. Grosse"
+        },
+        {
+          "authorId": "145124475",
+          "name": "R. Salakhutdinov"
+        }
+      ]
+    },
+    {
+      "paperId": "df137487e20ba7c6e1e2b9a1e749f2a578b5ad99",
+      "title": "Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "1751569",
+          "name": "Samy Bengio"
+        },
+        {
+          "authorId": "1689108",
+          "name": "O. Vinyals"
+        },
+        {
+          "authorId": "3111912",
+          "name": "N. Jaitly"
+        },
+        {
+          "authorId": "1846258",
+          "name": "Noam Shazeer"
+        }
+      ]
+    },
+    {
+      "paperId": "cf5cf758f1b00214d70e34f8a57813557dc03e17",
+      "title": "Adam: A Method for Stochastic Optimization",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "1726807",
+          "name": "Diederik P. Kingma"
+        },
+        {
+          "authorId": "2503659",
+          "name": "Jimmy Ba"
+        }
+      ]
+    },
+    {
+      "paperId": "394159b1b3b501462584cd711bc5c07e46139b62",
+      "title": "On the influence of outer large-scale structures on near-wall turbulence in channel flow",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "50646982",
+          "name": "L. Agostini"
+        },
+        {
+          "authorId": "2062675",
+          "name": "M. Leschziner"
+        }
+      ]
+    },
+    {
+      "paperId": "3735c3807ee8eff216dd5b3c829cbc8bcd79937a",
+      "title": "Turbulence, Coherent Structures, Dynamical Systems and Symmetry",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "144875384",
+          "name": "B. R. Noack"
+        }
+      ]
+    },
+    {
+      "paperId": "bd30847cc3486a9ccf7e153f2fc7b4a49f4116ac",
+      "title": "Predictive Model for Wall-Bounded Turbulent Flow",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "2572686",
+          "name": "I. Marusic"
+        },
+        {
+          "authorId": "49811373",
+          "name": "R. Mathis"
+        },
+        {
+          "authorId": "2706194",
+          "name": "N. Hutchins"
+        }
+      ]
+    },
+    {
+      "paperId": "aaa101fcdde15d67051fffa624630a8984398136",
+      "title": "High Reynolds number effects in wall turbulence",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "2572686",
+          "name": "I. Marusic"
+        },
+        {
+          "authorId": "49811373",
+          "name": "R. Mathis"
+        },
+        {
+          "authorId": "2706194",
+          "name": "N. Hutchins"
+        }
+      ]
+    },
+    {
+      "paperId": "a20517022113ad6ed37c03bcd19057fca67900cc",
+      "title": "Large-scale amplitude modulation of the small-scale structures in turbulent boundary layers",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "49811373",
+          "name": "R. Mathis"
+        },
+        {
+          "authorId": "2706194",
+          "name": "N. Hutchins"
+        },
+        {
+          "authorId": "2572686",
+          "name": "I. Marusic"
+        }
+      ]
+    },
+    {
+      "paperId": "3be198ac276d525b8b9de3924dbb200c0b8cd806",
+      "title": "A low-dimensional model for turbulent shear flows",
+      "year": 2004,
+      "authors": [
+        {
+          "authorId": "10213765",
+          "name": "J. Moehlis"
+        },
+        {
+          "authorId": "3034301",
+          "name": "H. Faisst"
+        },
+        {
+          "authorId": "2350407",
+          "name": "B. Eckhardt"
+        }
+      ]
+    },
+    {
+      "paperId": "fc550a4e51c3ee0326cbd3cde209d8cc32399b4c",
+      "title": "Self-sustaining mechanisms of wall turbulence - A review",
+      "year": 1999,
+      "authors": [
+        {
+          "authorId": "69858873",
+          "name": "R. Panton"
+        }
+      ]
+    },
+    {
+      "paperId": "300fc7015b108ec23891b4ce1146b9ee934d11fd",
+      "title": "On a self-sustaining process in shear flows",
+      "year": 1997,
+      "authors": [
+        {
+          "authorId": "1969045",
+          "name": "F. Waleffe"
+        }
+      ]
+    },
+    {
+      "paperId": "affe155c246a70d69c024e39052158610fed4143",
+      "title": "A low-dimensional approach for the minimal flow unit",
+      "year": 1996,
+      "authors": [
+        {
+          "authorId": "9040360",
+          "name": "B. Podvin"
+        },
+        {
+          "authorId": "34684581",
+          "name": "J. Lumley"
+        }
+      ]
+    },
+    {
+      "paperId": "3e794253c73f1765fba904db1f3459aec489c876",
+      "title": "Regeneration mechanisms of near-wall turbulence structures",
+      "year": 1995,
+      "authors": [
+        {
+          "authorId": "145946626",
+          "name": "J. M. Hamilton"
+        },
+        {
+          "authorId": "2109221191",
+          "name": "John Kim"
+        },
+        {
+          "authorId": "1969045",
+          "name": "F. Waleffe"
+        }
+      ]
+    },
+    {
+      "paperId": "a85d6445caffc82ef2c4ee925a03353fb4d8f357",
+      "title": "Coherence and chaos in a model of turbulent boundary layer",
+      "year": 1992,
+      "authors": [
+        {
+          "authorId": "2140152013",
+          "name": "Xiang Zhou"
+        },
+        {
+          "authorId": "49555086",
+          "name": "L. Sirovich"
+        }
+      ]
+    },
+    {
+      "paperId": "d0730b0f0cf595c470fd53965869ab6402ac5858",
+      "title": "Spatiotemporal analysis of complex signals: Theory and applications",
+      "year": 1991,
+      "authors": [
+        {
+          "authorId": "1834802",
+          "name": "N. Aubry"
+        },
+        {
+          "authorId": "103124784",
+          "name": "R. Guyonnet"
+        },
+        {
+          "authorId": "144207197",
+          "name": "R. Lima"
+        }
+      ]
+    },
+    {
+      "paperId": "829932c1ea345e25b7b5c846256b4803879d1fd8",
+      "title": "The local structure of turbulence in incompressible viscous fluid for very large Reynolds numbers",
+      "year": 1991,
+      "authors": [
+        {
+          "authorId": "2135764",
+          "name": "A. N. Kolmogorov"
+        }
+      ]
+    },
+    {
+      "paperId": "98d550098bccdfff00ce22f8b12d820fbf0e11a6",
+      "title": "The minimal flow unit in near-wall turbulence",
+      "year": 1991,
+      "authors": [
+        {
+          "authorId": "143933539",
+          "name": "J. Jim\u00e9nez"
+        },
+        {
+          "authorId": "2248223",
+          "name": "P. Moin"
+        }
+      ]
+    },
+    {
+      "paperId": "4e1d2fdcd44cc416e44b6186c1f7c23cc1200b7c",
+      "title": "Eddies, streams, and convergence zones in turbulent flows",
+      "year": 1988,
+      "authors": [
+        {
+          "authorId": "7491288",
+          "name": "J. Hunt"
+        },
+        {
+          "authorId": "91141079",
+          "name": "A. Wray"
+        },
+        {
+          "authorId": "2248223",
+          "name": "P. Moin"
+        }
+      ]
+    },
+    {
+      "paperId": "15e5af8d6f9957b848e1861191d38902718ae980",
+      "title": "The dynamics of coherent structures in the wall region of a turbulent boundary layer",
+      "year": 1988,
+      "authors": [
+        {
+          "authorId": "1834802",
+          "name": "N. Aubry"
+        },
+        {
+          "authorId": "48931743",
+          "name": "P. Holmes"
+        },
+        {
+          "authorId": "34684581",
+          "name": "J. Lumley"
+        },
+        {
+          "authorId": "144796417",
+          "name": "E. Stone"
+        }
+      ]
+    },
+    {
+      "paperId": "ac7701c84dcb8ddf3a2b908a1e4d97df59e06737",
+      "title": "Turbulence and the dynamics of coherent structures. I. Coherent structures",
+      "year": 1987,
+      "authors": [
+        {
+          "authorId": "49555086",
+          "name": "L. Sirovich"
+        }
+      ]
+    },
+    {
+      "paperId": "db966ed68e8e435885b67012ec96c20662e6de9b",
+      "title": "Turbulence statistics in fully developed channel flow at low Reynolds number",
+      "year": 1987,
+      "authors": [
+        {
+          "authorId": "2109221191",
+          "name": "John Kim"
+        },
+        {
+          "authorId": "2248223",
+          "name": "P. Moin"
+        },
+        {
+          "authorId": "50721929",
+          "name": "R. Moser"
+        }
+      ]
+    },
+    {
+      "paperId": "74570ce84ff16b5c3ba92ea426229dadc51b7deb",
+      "title": "Structure of the Reynolds stress near the wall",
+      "year": 1972,
+      "authors": [
+        {
+          "authorId": "13325758",
+          "name": "W. Willmarth"
+        },
+        {
+          "authorId": "2478718622",
+          "name": "S.-S. Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "ede2e91b088112d3094a0066b7b5f58484da3fe8",
+      "title": "On the nature of turbulence",
+      "year": 1971,
+      "authors": [
+        {
+          "authorId": "2707351",
+          "name": "D. Ruelle"
+        },
+        {
+          "authorId": "47214537",
+          "name": "F. Takens"
+        }
+      ]
+    },
+    {
+      "paperId": "c68796f833a7151f0a63d1d1608dc902b4fdc9b6",
+      "title": "GENERATIVE ADVERSARIAL NETS",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "2262142027",
+          "name": "Individualized Treat"
+        },
+        {
+          "authorId": "2334322732",
+          "name": "Jinsung Yoon"
+        }
+      ]
+    },
+    {
+      "paperId": null,
+      "title": "Deep learning , volume 1",
+      "year": 2016,
+      "authors": []
+    },
+    {
+      "paperId": "06b0e7efbfde46363f94386628451d8d09b20dca",
+      "title": "Proper Orthogonal Decomposition: an overview",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "35108334",
+          "name": "L. Cordier"
+        },
+        {
+          "authorId": "38806180",
+          "name": "M. Bergmann"
+        }
+      ]
+    },
+    {
+      "paperId": "cb49b05235e4591e98dc5efbe1e7721a66dd7ab7",
+      "title": "Two typical applications of POD: coherent structures eduction and reduced order modelling",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "35108334",
+          "name": "L. Cordier"
+        },
+        {
+          "authorId": "38806180",
+          "name": "M. Bergmann"
+        }
+      ]
+    },
+    {
+      "paperId": null,
+      "title": "How streamwise rolls and streaks self-sustain in a shear flow. ii",
+      "year": 1998,
+      "authors": []
+    },
+    {
+      "paperId": "9ff0a26c4328c93533b5d1ce0b1dfc77c28b5b0c",
+      "title": "Genesis and dynamics of coherent structures in near-wall turbulence: a new look",
+      "year": 1997,
+      "authors": [
+        {
+          "authorId": "90213329",
+          "name": "W. Schoppa"
+        },
+        {
+          "authorId": "6629467",
+          "name": "F. Hussain"
+        }
+      ]
+    },
+    {
+      "paperId": "ca60bf38e730692564351c3df3d2fe0ee9a690ff",
+      "title": "Coding Theorems for a Discrete Source With a Fidelity CriterionInstitute of Radio Engineers, International Convention Record, vol. 7, 1959.",
+      "year": 1993,
+      "authors": [
+        {
+          "authorId": "143992833",
+          "name": "N. Sloane"
+        },
+        {
+          "authorId": "1734614",
+          "name": "A. Wyner"
+        }
+      ]
+    },
+    {
+      "paperId": "bff11f3eb6232dedb0ec30d00ab91eab886ecf5e",
+      "title": "Coherent Motions in the Turbulent Boundary Layer",
+      "year": 1991,
+      "authors": [
+        {
+          "authorId": "145919110",
+          "name": "S. K. Robinson"
+        }
+      ]
+    },
+    {
+      "paperId": "6591becba406286ed92881f3ae4e9132da9f2b3e",
+      "title": "Near-wall turbulence",
+      "year": 1990,
+      "authors": [
+        {
+          "authorId": "97289792",
+          "name": "S. Kline"
+        },
+        {
+          "authorId": "2134327",
+          "name": "N. Afgan"
+        }
+      ]
+    },
+    {
+      "paperId": null,
+      "title": "The structure of inhomogeneous turbulent flows",
+      "year": 1967,
+      "authors": []
+    },
+    {
+      "paperId": null,
+      "title": "Probability theory: foundations, random sequences. (No Title)",
+      "year": 1955,
+      "authors": []
+    },
+    {
+      "paperId": null,
+      "title": "all you",
+      "year": null,
+      "authors": []
+    },
+    {
+      "paperId": null,
+      "title": "A Hybrid Generative Reduced-Order Model A",
+      "year": null,
+      "authors": []
+    }
+  ],
+  "vivaldy a hybrid generative reducedorder model for turbulent flows applied to vortexinduced vibrations": [],
+  "datadriven modeling of nearwall turbulence using \u03b2variational autoencoder transformers and adversarial loss": [],
+  "simulation of a wingtip vortex flow with linear eddy viscosity turbulence models at re46e6 and re12e6": []
+}

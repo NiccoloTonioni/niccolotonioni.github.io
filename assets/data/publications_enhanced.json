@@ -2,51 +2,51 @@
   "stats": {
     "top_cited_authors": [
       {
-        "name": "A. Vaswani",
-        "count": 4
-      },
-      {
-        "name": "I. Higgins",
-        "count": 4
-      },
-      {
-        "name": "I. Goodfellow",
-        "count": 4
-      },
-      {
         "name": "R. Vinuesa",
+        "count": 6
+      },
+      {
+        "name": "L. Agostini",
         "count": 3
       },
       {
-        "name": "S. B. Pope",
-        "count": 2
+        "name": "M. Tschannen",
+        "count": 3
+      },
+      {
+        "name": "E. Agustsson",
+        "count": 3
+      },
+      {
+        "name": "I. Marusic",
+        "count": 3
       }
     ],
     "top_cited_papers": [
       {
-        "title": "Attention Is All You Need (Vaswani et al., 2017)",
-        "count": 4
+        "title": "On deep-learning-based closures for algebraic surrogate models of turbulent flows",
+        "count": 1
       },
       {
-        "title": "beta-VAE: Learning Basic Visual Concepts (Higgins et al., 2017)",
-        "count": 4
+        "title": "SOD2D: A GPU-enabled Spectral Finite Elements Method for compressible scale-resolving simulations",
+        "count": 1
       },
       {
-        "title": "Generative Adversarial Networks (Goodfellow et al., 2014)",
-        "count": 3
+        "title": "Perspectives on predicting and controlling turbulent flows through deep learning",
+        "count": 1
       },
       {
-        "title": "Deep Learning (Goodfellow, Bengio & Courville, 2016)",
-        "count": 2
+        "title": "Easy attention: A simple attention mechanism for temporal predictions with transformers",
+        "count": 1
       },
       {
-        "title": "Turbulent Flows (Pope, 2000)",
-        "count": 2
+        "title": "β-Variational autoencoders and transformers for reduced-order modelling of fluid flows",
+        "count": 1
       }
     ],
     "most_influential_year": {
-      "year": 2017,
-      "count": 9
+      "year": 2023,
+      "count": 6
     }
   },
   "publications": [
@@ -57,20 +57,20 @@
       "pubtype": "journal",
       "map_coords": {
         "umap": {
-          "x": -0.9,
-          "y": 1.5
+          "x": 25.163,
+          "y": 3.5301
         },
         "pca": {
-          "x": -0.7,
-          "y": 1.2
+          "x": -0.3639,
+          "y": 0.0771
         }
       },
       "ai_results": {
-        "category": "Near-wall Turbulence",
-        "summary": "Presents a data-driven reduced-order model coupling a β-VAE-GAN with a sensor-conditioned Easy Attention Transformer to forecast near-wall turbulence in a Minimal Flow Unit (Re_τ = 200). The model compresses the flow to a four-variable latent space and sustains accurate trajectories from just three point sensors over long horizons. Published in International Journal of Heat and Fluid Flow."
+        "summary": "Couples a β-VAE-GAN with a sensor-conditioned Easy Attention Transformer to forecast near-wall turbulence from three point sensors. Published in Int. J. Heat Fluid Flow.",
+        "category": "Near-wall Turbulence"
       },
       "s2_metadata": {
-        "year": 2026
+        "year": "2026"
       }
     },
     {
@@ -80,112 +80,66 @@
       "pubtype": "journal",
       "map_coords": {
         "umap": {
-          "x": 2.1,
-          "y": 0.8
+          "x": 26.3626,
+          "y": 3.2743
         },
         "pca": {
-          "x": 1.8,
-          "y": 0.5
+          "x": -0.0992,
+          "y": -0.547
         }
       },
       "ai_results": {
-        "category": "Vortex-Induced Vibrations",
-        "summary": "Introduces VIVALDy, a hybrid beta-VAE-GAN and bidirectional transformer framework for reduced-order modeling of turbulent flows. Validated on vortex-induced vibration (VIV) systems, predicting flow states from cylinder displacement alone. Published in Physical Review Fluids."
+        "summary": "Introduces VIVALDy, combining β-VAE-GAN and bidirectional transformer for reduced-order modelling of VIV systems from cylinder displacement alone. Published in Physical Review Fluids.",
+        "category": "Vortex-Induced Vibrations"
       },
       "s2_metadata": {
-        "year": 2026
+        "year": "2026"
       }
     },
     {
-      "title": "VIVALDy: A Hybrid Generative Reduced-Order Model for Turbulent Flows, Applied to Vortex-Induced Vibrations",
-      "date": "2025-09-25",
-      "permalink": "/publication/2025-09-29-vivaldy",
-      "pubtype": "preprint",
-      "map_coords": {
-        "umap": {
-          "x": 1.7,
-          "y": 1.2
-        },
-        "pca": {
-          "x": 1.4,
-          "y": 0.9
-        }
-      },
-      "ai_results": {
-        "category": "Vortex-Induced Vibrations",
-        "summary": "arXiv preprint of VIVALDy: a beta-VAE-GAN and transformer framework for modeling turbulent flows around a moving cylinder in VIV systems using only cylinder displacement as input."
-      },
-      "s2_metadata": {
-        "year": 2025
-      }
-    },
-    {
-      "title": "VIVALDy: AI-Driven Low-Order Modeling of Vortex-Induced Vibrations via beta-Variational Autoencoders, Transformers, and Adversarial Training",
-      "date": "2025-05-27",
-      "permalink": "/publication/2025-05-27-aifluids",
-      "pubtype": "conference",
-      "map_coords": {
-        "umap": {
-          "x": 1.3,
-          "y": 0.3
-        },
-        "pca": {
-          "x": 1.0,
-          "y": 0.2
-        }
-      },
-      "ai_results": {
-        "category": "Vortex-Induced Vibrations",
-        "summary": "Conference paper at AiFluids 2025 (Chania, Greece) presenting VIVALDy for low-order modeling of vortex-induced vibrations using beta-VAE-GAN and transformer architectures."
-      },
-      "s2_metadata": {
-        "year": 2025
-      }
-    },
-    {
-      "title": "Data-driven modeling of near-wall turbulence using beta-variational autoencoder, transformers, and adversarial loss",
+      "title": "Data-driven modeling of near-wall turbulence using β-variational autoencoder, transformers, and adversarial loss",
       "date": "2025-07-21",
       "permalink": "/publication/2025-07-21-thmt25",
       "pubtype": "conference",
       "map_coords": {
         "umap": {
-          "x": -1.4,
-          "y": 1.1
+          "x": 25.5394,
+          "y": 4.61
         },
         "pca": {
-          "x": -1.1,
-          "y": 0.8
+          "x": -0.3215,
+          "y": 0.357
         }
       },
       "ai_results": {
-        "category": "Near-wall Turbulence",
-        "summary": "Conference paper at THMT-25 (Tokyo, Japan). A beta-VAE-GAN and decoder-only transformer framework for data-driven modeling of near-wall turbulence in a minimal channel flow at Re_tau=200. Demonstrates accurate latent space forecasting within one Lyapunov time."
+        "summary": "β-VAE-GAN + transformer framework for near-wall turbulence in a minimal channel at Re_τ=200; predicts latent dynamics within one Lyapunov time. Presented at THMT-25, Tokyo.",
+        "category": "Near-wall Turbulence"
       },
       "s2_metadata": {
-        "year": 2025
+        "year": "2025"
       }
     },
     {
       "title": "Simulation of a wingtip vortex flow with Linear Eddy Viscosity turbulence models at Re=4.6E6 and Re=1.2E6",
       "date": "2022-10-06",
       "permalink": "/publication/2022-10-06-simulation-wingtip-vortex",
-      "pubtype": "masterthesis",
+      "pubtype": "",
       "map_coords": {
         "umap": {
-          "x": -2.8,
-          "y": -1.3
+          "x": 26.9368,
+          "y": 4.3666
         },
         "pca": {
-          "x": -2.2,
-          "y": -1.0
+          "x": 0.7847,
+          "y": 0.1129
         }
       },
       "ai_results": {
-        "category": "Computational Fluid Dynamics",
-        "summary": "Master thesis studying the accuracy of Linear Eddy Viscosity models (Spalart-Allmaras, SST) for wingtip vortex flow simulation using SU2 at two Reynolds numbers. Compares RANS results with experimental data."
+        "summary": "RANS simulation of a wingtip vortex with linear eddy-viscosity models; compares turbulence closure performance for vortex roll-up prediction.",
+        "category": "Computational Fluid Dynamics"
       },
       "s2_metadata": {
-        "year": 2022
+        "year": "2022"
       }
     }
   ]
